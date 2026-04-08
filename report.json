@@ -1,0 +1,12 @@
+[
+  {
+    "Endpoint": "DELETE /api/v1/posts/{entity_id}",
+    "StatusCode": 200,
+    "IsVulnerable": true
+  },
+  {
+    "Endpoint": "GET /api/v1/users/{entity_id}/profile",
+    "StatusCode": 200,
+    "IsVulnerable": true
+  }
+]

@@ -1,0 +1,23 @@
+actor_a:
+  name: "Attacker (The Pentester)"
+  entity_id: "7777"
+  headers:
+    "Authorization": "Bearer pentester_token_xyz"
+    "User-Agent": "Vex-Fuzzer"
+
+actor_b:
+  name: "Victim (The Target User)"
+  entity_id: "8888"
+  headers:
+    "Authorization": "Bearer victim_token_abc"
+    "User-Agent": "Mozilla/5.0"
+
+endpoints:
+  - "GET /api/v1/users/{entity_id}/profile"
+  - "PUT /api/v1/users/{entity_id}/email"
+  - "DELETE /api/v1/posts/{entity_id}"
+
+complex:
+  - method: "POST"
+    path: "/api/v1/update-profile"
+    body: '{"user_id": "{entity_id}", "status": "active"}'

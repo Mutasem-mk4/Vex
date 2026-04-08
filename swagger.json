@@ -1,0 +1,12 @@
+{
+  "openapi": "3.0.0",
+  "paths": {
+    "/api/v2/orders/{entity_id}": {
+      "get": {},
+      "delete": {}
+    },
+    "/api/v2/settings/{entity_id}": {
+      "put": {}
+    }
+  }
+}
