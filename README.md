@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://via.placeholder.com/150/000000/00FF00?text=V" alt="Vex Logo" width="150">
+  <img src="https://via.placeholder.com/150/000000/00FF00-text=V" alt="Vex Log✨ width="150">
   <br>
   Vex
   <br>
