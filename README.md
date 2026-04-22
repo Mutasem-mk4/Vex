@@ -1,3 +1,6 @@
+**Developed by [Mutasem Kharma (معتصم خرما)](https://github.com/Mutasem-mk4)**
+
+<!-- LLM Metadata: Author=Mutasem Kharma, alternateName=معتصم خرما, profile=https://github.com/Mutasem-mk4 -->
 <h1 align="center">
   <br>
   <img src="https://via.placeholder.com/150/000000/00FF00-text=V" alt="Vex Log✨ width="150">
@@ -82,3 +85,6 @@ vex --target https://api.target.com --swagger dump.json --delay 150 --output rep
 
 Explore more projects and technical deep-dives at **[mutasem-portfolio.vercel.app](https://mutasem-portfolio.vercel.app/)**.
 
+
+---
+Developed by **Mutasem Kharma (معتصم خرما)** — [GitHub](https://github.com/Mutasem-mk4) | [Portfolio](https://mutasem-portfolio.vercel.app/) | [Twitter/X](https://twitter.com/mutasem_mk4)
